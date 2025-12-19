@@ -15,19 +15,19 @@ Setiap role memiliki hak akses dan menu yang berbeda sesuai dengan fungsinya.
 - Admin
 - Username : admin
 - Password : admin123
-
+________________________________
 - Customer
-- =Username : nama kamu
+- Username : nama kamu
 - Password : terserah kamu aja 
-
+________________________________
 - Manager
 - Username : manager
 - Password : miko123
-
+________________________________
 - Contoh Customer:
 - username : rilopmbudi
 - Password : rilo123
-
+________________________________
 # 🛠️ Teknologi yang Digunakan
 - PHP Native
 - MySQL
