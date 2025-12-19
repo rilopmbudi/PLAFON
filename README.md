@@ -51,14 +51,13 @@ Apache (XAMPP / Hosting)
 
 # 🚀 Cara Menjalankan Aplikasi
 Berikut adalah langkah-langkah untuk menjalankan aplikasi SISTEM INFORMASI PENJUALAN PLAFON pada lingkungan lokal:
-
-  Clone repository project ke komputer lokal.
-  Pindahkan folder project ke dalam direktori web server XAMPP, yaitu folder htdocs.
-  Jalankan layanan Apache dan MySQL melalui XAMPP Control Panel.
-  Buka browser dan akses phpMyAdmin melalui alamat http://localhost/phpmyadmin.
-  Buat database baru dengan nama db_plafon.
-  Import file database db_plafon.sql yang tersedia pada folder database di dalam project.
-  Buka file konfigurasi koneksi database pada folder config (file koneksi.php), kemudian sesuaikan pengaturan koneksi database dengan server lokal.
-  Akses aplikasi melalui browser dengan alamat http://localhost/nama-folder-project.
-  Login ke sistem menggunakan akun default sesuai dengan role pengguna (admin, manager, customer).
+Clone repository project ke komputer lokal.
+Pindahkan folder project ke dalam direktori web server XAMPP, yaitu folder htdocs.
+Jalankan layanan Apache dan MySQL melalui XAMPP Control Panel.
+Buka browser dan akses phpMyAdmin melalui alamat http://localhost/phpmyadmin.
+Buat database baru dengan nama db_plafon.
+Import file database db_plafon.sql yang tersedia pada folder database di dalam project.
+Buka file konfigurasi koneksi database pada folder config (file koneksi.php), kemudian sesuaikan pengaturan koneksi database dengan server lokal.
+Akses aplikasi melalui browser dengan alamat http://localhost/nama-folder-project.
+Login ke sistem menggunakan akun default sesuai dengan role pengguna (admin, manager, customer).
 
