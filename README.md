@@ -12,7 +12,7 @@ SISTEM INFORMASI PENJUALAN PLAFON berbasis web yang dibangun menggunakan PHP dan
 
 Setiap role memiliki hak akses dan menu yang berbeda sesuai dengan fungsinya.
 
-# Akun Login Default 🔐
+# Akun Login Default 
 - Admin
 - Username : admin
 - Password : admin123
@@ -29,7 +29,7 @@ ________________________________
 - username : rilopmbudi
 - Password : rilo123
 ________________________________
-# Teknologi yang Digunakan 🛠️ 
+# Teknologi yang Digunakan 
 - PHP Native
 - MySQL
 - HTML, CSS
@@ -38,7 +38,7 @@ ________________________________
 # Diagram Database
 <img width="1236" height="668" alt="image" src="https://github.com/user-attachments/assets/862f9ad5-9833-40bb-8e26-27c21e3600f9" />
 
-# Tampilan Aplikasi 📷 
+# Tampilan Aplikasi 
 <img width="1920" height="866" alt="image" src="https://github.com/user-attachments/assets/8301f827-7e6f-4baf-b451-d6482946dc8d" />
 
 # Dashboard Admin
@@ -50,7 +50,7 @@ ________________________________
 # Dashboard Customer
 <img width="1893" height="854" alt="image" src="https://github.com/user-attachments/assets/28839d93-e411-47ad-b72e-2a907df40733" />
 
-# Cara Menjalankan Aplikasi 🚀
+# Cara Menjalankan Aplikasi 
 Berikut adalah langkah-langkah untuk menjalankan aplikasi SISTEM INFORMASI PENJUALAN PLAFON pada lingkungan lokal:
 - Clone repository project ke komputer lokal.
 - Pindahkan folder project ke dalam direktori web server XAMPP, yaitu folder htdocs.
