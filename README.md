@@ -12,27 +12,27 @@ SISTEM INFORMASI PENJUALAN PLAFON berbasis web yang dibangun menggunakan PHP dan
 Setiap role memiliki hak akses dan menu yang berbeda sesuai dengan fungsinya.
 
 # 🔐 Akun Login Default
-Admin
-Username : admin
-Password : admin123
+- Admin
+- Username : admin
+- Password : admin123
 
-Customer
-Username : nama kamu
-Password : terserah kamu aja 
+- Customer
+- =Username : nama kamu
+- Password : terserah kamu aja 
 
-Manager
-Username : manager
-Password : miko123
+- Manager
+- Username : manager
+- Password : miko123
 
-Contoh Customer:
-username : rilopmbudi
-Password : rilo123
+- Contoh Customer:
+- username : rilopmbudi
+- Password : rilo123
 
 # 🛠️ Teknologi yang Digunakan
-PHP Native
-MySQL
-HTML, CSS
-Apache (XAMPP / Hosting)
+- PHP Native
+- MySQL
+- HTML, CSS
+- Apache (XAMPP / Hosting)
 
 # Diagram Database
 <img width="1236" height="668" alt="image" src="https://github.com/user-attachments/assets/862f9ad5-9833-40bb-8e26-27c21e3600f9" />
