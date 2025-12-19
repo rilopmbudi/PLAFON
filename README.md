@@ -10,7 +10,7 @@ SISTEM INFORMASI PENJUALAN PLAFON berbasis web yang dibangun menggunakan PHP dan
 - Customer
 - Manager
 
-_Setiap role memiliki hak akses dan menu yang berbeda sesuai dengan fungsinya.
+Setiap role memiliki hak akses dan menu yang berbeda sesuai dengan fungsinya.
 
 # 🔐 Akun Login Default
 - Admin
